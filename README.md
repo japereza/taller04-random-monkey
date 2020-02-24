@@ -12,9 +12,11 @@ Repo que contiene las evidencias del taller 4 End2End Testing desarrollado por:
 
 ## 1. Cypress Ripper ad-hoc
 
-Ruta hacia el script final: [simple_spec.js](https://github.com/japereza/miso4208-taller02-e2e/blob/master/cypress/cypress/integration/simple_spec.js)
+Ruta hacia el script final: [monkey_testing_ripper.spec.js](https://github.com/japereza/taller04-random-monkey/blob/master/cypress-ripper/cypress/integration/monkey_testing_ripper.spec.js)
 
 ## 2. Android Debug Bridge Monkey
 
-El gif con la evidencia: [Evidencias ](https://github.com/jtaller04-random-monkey)
+El gif con la evidencia:
+
+
 

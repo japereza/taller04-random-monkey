@@ -16,7 +16,12 @@ Ruta hacia el script final: [monkey_testing_ripper.spec.js](https://github.com/j
 
 ## 2. Android Debug Bridge Monkey
 
+En mi caso escogi MyExpenses.
+
 El gif con la evidencia:
 
+<img src="/adb-monkey/Monkey_myexpenses.gif?raw=true">
+
+https://raw.github.com/japereza/taller04-random-monkey/master/adb-monkey/Monkey_myexpenses.gif
 
 
